@@ -2,7 +2,7 @@
 Software Engineer passionate about building web applications and learning new technologies.
 ## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,nodejs,nestjs,java,spring,postgres,mongodb,git,docker&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,php,react,nextjs,nodejs,nestjs,java,spring,postgres,mongodb,git,docker&perline=8)](https://skillicons.dev)
 
 <!--
 **DuongTuanKhang/DuongTuanKhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
