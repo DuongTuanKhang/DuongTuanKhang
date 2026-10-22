@@ -1,3 +1,7 @@
+## Hi, I'm Duong Tuan Khang ✨
+Software Engineer passionate about building web applications and learning new technologies.
+
+Add my strongest technical skillsMake my professional focus more specific
 ## Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,nodejs,nestjs,java,spring,postgres,mongodb,git,docker&perline=8)](https://skillicons.dev)
